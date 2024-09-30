@@ -24,24 +24,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-# bfzy
-DOMAIN-SUFFIX,bfzy.tv
-DOMAIN-SUFFIX,bfzy1.tv
-DOMAIN-SUFFIX,bfzy2.tv
-DOMAIN-SUFFIX,bfzy3.tv
-DOMAIN-SUFFIX,bfzy4.tv
-DOMAIN-SUFFIX,bfzy5.tv
-DOMAIN-SUFFIX,bfzy6.tv
-DOMAIN-SUFFIX,bfzy7.tv
-DOMAIN-SUFFIX,bfzy8.tv
-DOMAIN-SUFFIX,bfzy9.tv
-DOMAIN-SUFFIX,bfzy10.tv
-
-# lzzy
-DOMAIN-SUFFIX,lzzy.tv
-
-# ffzy
-DOMAIN-SUFFIX,ffzy.tv
 
 # 360
 DOMAIN-SUFFIX,360.com
